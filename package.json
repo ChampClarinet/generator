@@ -1,7 +1,7 @@
 {
   "name": "@cantabile/generator",
   "version": "1.0.0",
-  "description": "Generator",
+  "description": "The Generator package is a versatile tool designed to facilitate the creation of various outputs based on user-defined input parameters. It offers functionality for generating a wide range of content, providing flexibility and customization options to meet diverse needs. With easy installation and straightforward usage, Generator empowers users to efficiently produce desired outputs, whether it be code snippets, text files, or other forms of content.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "homepage": "https://github.com/ChampClarinet/generator",
